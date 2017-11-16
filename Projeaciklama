@@ -1,0 +1,14 @@
+//Şarkılar için çalma listesi oluşturan bir program yazınız.
+
+   // Bir Şarkı sınıfı yazınız, bu sınıfta şarkı adı ve süresi bilgileri olsun
+
+   //Programda şarkıların listesini tutar bir Album sınıfı olsun.
+
+   //Albumler bir arraylistte tutulacak
+
+   //Farklı albümdeki şarkılar listede eklendikleri sırayla tutulmalı.
+
+   //Şarkılar çalma listesine eklendikten sonra bir menu olusturun, bu menude;
+   //çıkış, sonraki şarkı, önceki şarkı, aynı şarkının tekrar çalınması, oynatma listesindeki şarkıların
+       // listelenmesi  gibi alanlar olmalı
+   //Bir şarkı oynatma listesine eklenmeden once bir albumde yer almalı.
